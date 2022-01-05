@@ -5,7 +5,7 @@
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "40b42091-49c4-4dc5-ae09-1d2f89be0746"
+            "value": "90010867-ab69-49fa-9f9e-baba23be22e0"
         },
         "AID": {
             "description": "AlterID",
@@ -16,7 +16,6 @@
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "repository": "https://github.com/RyanCao/kkh.git",
     "stack": "container"
 }
